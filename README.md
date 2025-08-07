@@ -169,4 +169,4 @@ Feel free to submit issues, feature requests, or improvements to make this tool 
 
 ---
 
-**⚡ Quick Start**: Run `.\cleanup-empty-dirs.ps1 -WhatIf` to safely preview what would be cleaned!
+**⚡ Quick Start**: Run `.\script.ps1 -WhatIf` to safely preview what would be cleaned!
