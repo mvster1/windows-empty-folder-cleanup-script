@@ -56,13 +56,13 @@ The script scans the following system locations for empty directories:
 
 ```powershell
 # Preview mode - see what would be deleted (RECOMMENDED FIRST RUN)
-.\cleanup-empty-dirs.ps1 -WhatIf
+.\script.ps1 -WhatIf
 
 # Interactive mode with confirmation prompt
-.\cleanup-empty-dirs.ps1
+.\script.ps1
 
 # Skip confirmation prompt
-.\cleanup-empty-dirs.ps1 -Force
+.\script.ps1 -Force
 ```
 
 ### Parameters
